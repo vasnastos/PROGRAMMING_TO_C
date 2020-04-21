@@ -1,0 +1,9 @@
+List of class results::
+NAME 	 GRADE
+kostas 	 3.30
+nikos 	 6.70
+petros 	 9.00
+vasilis  9.20
+class average grade:7.050000
+Max grade:9.200000
+Success ratio:75.000000
