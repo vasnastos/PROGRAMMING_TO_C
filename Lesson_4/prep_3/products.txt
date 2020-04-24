@@ -1,0 +1,5 @@
+chair-120
+tv-210
+keyboard-30.45
+pc-1000
+headphones-15.67

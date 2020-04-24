@@ -1,0 +1,7 @@
+LIST OF PRODUCTS
+PRODUCT_1:headphones	 price:15.67
+PRODUCT_2:keyboard	 price:30.45
+PRODUCT_3:chair	 price:120.00
+PRODUCT_4:tv	 price:210.00
+PRODUCT_5:pc	 price:1000.00
+Average price:275.22

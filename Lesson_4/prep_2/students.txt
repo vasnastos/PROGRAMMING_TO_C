@@ -1,0 +1,7 @@
+nikos,7
+petros,6.7
+vaggelis,8.7
+marios,9.3
+kostas,9,3
+vasilis,7.8
+ioannis,4.5
