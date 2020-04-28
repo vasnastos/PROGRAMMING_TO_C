@@ -1,0 +1,13 @@
+Id:0750 	 Balance:1000.000
+Id:8900 	 Balance:1500.000
+Id:0175 	 Balance:1450.500
+Id:7814 	 Balance:1560.700
+Id:0260 	 Balance:2670.000
+Id:0959 	 Balance:600.780
+Id:1753 	 Balance:4000.500
+Id:CH95 	 Balance:5000.450
+Id:DE33 	 Balance:10000.000
+Id:DE72 	 Balance:3100.340
+Id:ZZ80 	 Balance:2000.560
+Id:7097 	 Balance:120.000
+Id:7100 	 Balance:100.000
