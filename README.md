@@ -16,6 +16,9 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 <li><b>ΕΙΣΑΓΩΓΗ ΣΤΗΝ C++</b></li>
 </ul>
 <p style="color:red;">ΕΠΑΝΑΛΗΠΤΙΚΕΣ ΑΣΚΗΣΕΙΣ:</p>
-<p style="color:blue;">ΕΠΑΝΑΛΗΨΗ ΘΕΩΡΙΑΣ</p>
+ <ul>
+ <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXERCISES">SET_1</a></li>
+ </ul>
+<p style="color:blue;">ΕΠΑΝΑΛΗΨΗ ΘΕΩΡΙΑΣ:</p>
 </body>
 </html>
