@@ -1,0 +1,22 @@
+Pat Matt,1789
+Scat Matt,456
+Wilhelmina the Crews,789
+Misty Matt,120
+Mathias,3000
+Stunning Judith,1024
+Green Christine,810
+Mean Christine,670
+Lean Christine,450
+Russella,190
+
+After sort
+Misty Matt,120
+Russella,190
+Lean Christine,450
+Scat Matt,456
+Mean Christine,670
+Wilhelmina the Crews,789
+Green Christine,810
+Stunning Judith,1024
+Pat Matt,1789
+Mathias,3000
