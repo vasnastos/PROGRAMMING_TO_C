@@ -15,7 +15,7 @@ void pushfront(struct node **head,int d)
 }
 int length(struct node *curr)
 {
-    //to me implement
+    //to be implement
     return -1;
 }
 int sum(struct node *curr)
@@ -79,6 +79,6 @@ int main()
     pushfront(&head,5);
     inserttopositioni(head,3,25);
     printlist(head);
-    printf("LENGTH:%d\n",length(head));
+    printf("LENGTH:%d\n",length(head));//6!!!
     deletelist(head);
 }
