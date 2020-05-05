@@ -12,7 +12,7 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 <li><b>ΔΥΣΔΙΑΣΤΑΤΟΙ ΠΙΝΑΚΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course2">2D-BOARDS</a></b></li>
 <li><b>ΔΕΙΚΤΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course3">Pointers</a></b></li>
 <li><b>ΑΡΧΕΙΑ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course4">Files</a></b></li>
-<li><b>STRUCTS</b></li>
+<li><b>STRUCTS:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course5">Structs</a></b></li>
 <li><b>ΕΙΣΑΓΩΓΗ ΣΤΗΝ C++</b></li>
 </ul>
 <p style="color:red;"><b><i>ΕΠΑΝΑΛΗΠΤΙΚΕΣ ΑΣΚΗΣΕΙΣ:</i></b></p>
