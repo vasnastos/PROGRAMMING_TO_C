@@ -98,6 +98,27 @@ void erasefront(struct node **curr)
    free(prev);
    prev=*curr;
 }
+void bubblesort(struct node *curr)
+{
+    struct node *headnode=curr;
+    int size=length(curr);
+    while(curr!=NULL)
+    {
+        struct node *temp=headnode;
+       for(int i=0;i<size-1;i++)
+       {
+           if(temp->data>temp->next->data)
+           {
+               int var=temp->data;
+               temp->data=temp->next->data;
+               temp->next->data=var;
+           }
+           temp=temp->next;
+       }
+       curr=curr->next;
+    }
+}
+//reverse list to be implement!!!! 
 int main()
 {
     list ll;
@@ -119,6 +140,9 @@ int main()
     deleteatposition(ll.head,3);
     print(&ll);
     printf("Check 5(Length):expected[3]:\t");
-    printf("Length:%d",length(ll.head));
+    printf("Length:%d\n",length(ll.head));
+    printf("Check 6:(bubblesort):\n");
+    bubblesort(ll.head);
+    print(&ll);
     deletelist(&ll);
 }
