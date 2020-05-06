@@ -5,6 +5,10 @@ struct node
     char data;
     struct node *next;
 };
+typedef struct {
+    struct node *head;
+}list;
+
 int length(struct node *curr)
 {
     if(curr==NULL)
