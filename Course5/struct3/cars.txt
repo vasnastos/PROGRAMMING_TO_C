@@ -1,0 +1,19 @@
+BMW,7-serie,2019,16890
+Cadilac,CTS,2015,10000
+Toyota,Avensis,2014,8000
+Audi,A4,2011,7500
+Ford,Focus,2013,6570
+Hyundai,i40,2015,6100
+Volvo,s80,2010,5000
+Audi,A8,2012,5550
+Suzuki,Kizashi,2010,8900
+Mazda,Sedan,2009,3000
+Opel,Ignisia,2008,3500
+Jaguar,Xj,2007,4500
+Kia,cerato,2007,3400
+Suzuki,SX4,2006,2600
+Chevrolet,Aveo,2005,2500
+Seat,Cordoba,2007,3500
+ALFA ROMEO,159,2005.5500
+Audi,RS4,2004,1500
+DACIA,Logan,2002,1500
