@@ -39,18 +39,9 @@ void inserttopositioni(struct node *curr,int pos,int d)
 }
 void push_back(struct node *curr,int d)
 {   
-    int i=1;
-    int size=length(curr);
-    while(i<size)
-    {
-        curr=curr->next;
-        i++;
-    }
-    struct node *newnode=(struct node *)malloc(sizeof(struct node));
-    newnode->data=d;
-    curr->next=newnode;
-    newnode->next=NULL;
-    printf("element has been inserted to list!!!\n");
+   //to be implement
+   perror("list does not exist!!\n");
+   return;
 }
 void printlist(struct node *curr)
 {
@@ -76,9 +67,14 @@ int main()
     push_back(head,20);
     push_back(head,30);
     push_back(head,40);
-    pushfront(&head,5);
-    inserttopositioni(head,3,25);
+    printf("Check 1:pushback():");
     printlist(head);
-    printf("LENGTH:%d\n",length(head));//6!!!
+    pushfront(&head,5);
+    printf("Check 2:pushfront():");
+    inserttopositioni(head,3,25);
+    prtintf("Check 3:insert_to_position(3)");
+    printlist(head);
+    printf("Check 4:length list()");
+    printf("LENGTH:%d\n",length(head));
     deletelist(head);
 }
