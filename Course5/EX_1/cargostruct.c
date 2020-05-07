@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 //struct to be implement
 //..
 //..
-void delete_cargo(cargo *cr,int size,int id)
+void delete_cargo(cargo *cr,int *size,int id)
 {
     //to be implement
 }
@@ -11,7 +12,7 @@ void find_expensive_cargo(cargo *cr,int size,cargo *expensive)
 {
     //to be implement
 }
-void save_to_file()
+void save_to_file(cargo *crg,int cnt)
 {
     //to be implement
 }
@@ -29,7 +30,7 @@ int main()
     fp=fopen(fn,"r");
     if(fp==NULL)
     {
-        perror("No file %s found\n",fn);
+        perror("No file found\n");
         return 0;
     }
     char line[100];
@@ -49,15 +50,16 @@ int main()
     {
         cargos[i].id=v1;
         cargos[i].weight=v2;
-        cargos[i].destination=v3;
+        cargos[i].destination=(char *)malloc(100 * sizeof(char));
         cargos[i].price=v4;
         i++;
     } 
-    delete_cargo(12);
+    delete_cargo(cargos,&cnt,12);
     delete_cargo(5);
+    cargos=(cargo *)malloc(cnt*sizeof(cargo));
     cargo exp;
-    find_expensive_cargo(cargos,&exp);
-    update_price();
-    save_to_file();
+    find_expensive_cargo(cargos,cnt,&exp);
+    update_price(cargos,cnt);
+    save_to_file(cargos,cnt);
     printf("cargos have been saved!!!\n");
 }
