@@ -50,7 +50,7 @@ int main()
     {
         cargos[i].id=v1;
         cargos[i].weight=v2;
-        cargos[i].destination=(char *)malloc(100 * sizeof(char));
+        cargos[i].product=(char *)malloc(100 * sizeof(char));
         cargos[i].price=v4;
         i++;
     } 
