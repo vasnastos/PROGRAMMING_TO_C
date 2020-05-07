@@ -45,7 +45,7 @@ void deleteatposition(struct node *curr,int pos)
 {
     if(pos<0 || pos>length(curr))
     {
-        perror("invalid position,cant erase elment from thiw position because it does not exist;\n");
+        perror("invalid position,cant erase elment from this position because it does not exist;\n");
         return;
     }
     struct node *previous=NULL;
