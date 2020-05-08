@@ -96,7 +96,7 @@ void erasefront(struct node **curr)
    struct node *prev=*curr;
    *curr=(*curr)->next;
    free(prev);
-   prev=*curr;
+   //prev=*curr;
 }
 void bubblesort(struct node *curr)
 {
@@ -133,7 +133,7 @@ int main()
     printf("Check 2(push_front):expected 4->2->3:\t");
     push_front(&ll.head,4);
     print(&ll);
-    printf("Check 3(insertintoposition(2)):expected4->->20->2->3:\t");
+    printf("Check 3(insertintoposition(2)):expected:4->20->2->3:\t");
     insertintoposition(ll.head,20,2);
     print(&ll);
     printf("Check 4(deleteatposition(3)):expected 4->20->3:\t");
