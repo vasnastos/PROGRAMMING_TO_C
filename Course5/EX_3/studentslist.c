@@ -7,15 +7,15 @@ struct student
     double grade;
     struct student *next;
 };
-int length()
+int length(struct student *curr)
 {
     //to be implement
 }
-void pushback(int id,char *ln,double gr)
+void pushback(struct student *curr,struct student *newstudent)
 {
     //to be implement
 }
-double average()
+double average(struct student *curr)
 {
     //to be implement
 }
