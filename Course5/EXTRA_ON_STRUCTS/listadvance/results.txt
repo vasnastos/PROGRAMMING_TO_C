@@ -1,5 +1,5 @@
 CHECK_1:(erase front):expected 2->3:	2->3->
 Check 2(push_front):expected 4->2->3:	4->2->3->
-Check 3(insertintoposition(2)):expected4->->20->2->3:	4->20->2->3->
+Check 3(insertintoposition(2)):expected4->20->2->3:	4->20->2->3->
 Check 4(deleteatposition(3)):expected 4->20->3:	4->20->3->
 Check 5(Length):expected[3]:	Length:3
