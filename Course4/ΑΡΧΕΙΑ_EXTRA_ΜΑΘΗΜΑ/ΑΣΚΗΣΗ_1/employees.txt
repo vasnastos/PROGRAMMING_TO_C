@@ -1,0 +1,6 @@
+employee_1 560.0
+employee_2 100.0
+employee_3 660.0
+employee_4 890
+employee_5 1789
+employee_6 1500.0
