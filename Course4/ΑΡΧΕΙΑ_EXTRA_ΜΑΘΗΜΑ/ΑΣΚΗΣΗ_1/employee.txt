@@ -1,0 +1,11 @@
+Name:employee_10 	 SALARY:100.00
+Name:employee_7 	 SALARY:560.00
+Name:employee_5 	 SALARY:670.00
+Name:employee_4 	 SALARY:780.00
+Name:employee_3 	 SALARY:850.00
+Name:employee_6 	 SALARY:890.00
+Name:employee_9 	 SALARY:1100.00
+Name:employee_2 	 SALARY:1200.00
+Name:employee_1 	 SALARY:1400.00
+Name:employee_8 	 SALARY:1500.00
+HIGHEST PAID EMPLOYEE:NAME:employee_8 	 SALARY:1500.00

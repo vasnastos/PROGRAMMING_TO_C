@@ -1,0 +1,1 @@
+sum of prime numbers in 10=17
