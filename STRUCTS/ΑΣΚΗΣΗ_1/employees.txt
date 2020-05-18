@@ -1,0 +1,5 @@
+Name:vaggelis 	 Salary:1200.00
+Name:nikos 	 Salary:1350.00
+Name:maria 	 Salary:1400.00
+Name:kostas 	 Salary:1500.00
+Name:marios 	 Salary:1700.00
