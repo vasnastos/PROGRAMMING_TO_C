@@ -1,0 +1,31 @@
+#population info
+#stats
+London-England-8982000
+Athens-Greece-4000000
+Arta-Greece-43166
+Berlin-Germany-3769000
+Tokio-Japan-9273000
+Glaskow-Scotland-598830
+Liverpool-England-552267
+Barcelona-Spain-5575000
+Madrid-Spain-6642000
+Tel Aviv-Israel-435855
+Milan-Italy-1352000
+Warsaw-Poland-1708000
+Rio de Janeiro-Brazil-6320000
+Utah-USA-3206000
+Boston-USA-1000000City:Arta 	 Country:Greece 	 Population:43166
+City:Tel Aviv 	 Country:Israel 	 Population:435855
+City:Liverpool 	 Country:England 	 Population:552267
+City:Glaskow 	 Country:Scotland 	 Population:598830
+City:Boston 	 Country:USA 	 Population:1000000
+City:Milan 	 Country:Italy 	 Population:1352000
+City:Warsaw 	 Country:Poland 	 Population:1708000
+City:Utah 	 Country:USA 	 Population:3206000
+City:Berlin 	 Country:Germany 	 Population:3769000
+City:Athens 	 Country:Greece 	 Population:4000000
+City:Barcelona 	 Country:Spain 	 Population:5575000
+City:Rio de Janeiro 	 Country:Brazil 	 Population:6320000
+City:Madrid 	 Country:Spain 	 Population:6642000
+City:London 	 Country:England 	 Population:8982000
+City:Tokio 	 Country:Japan 	 Population:9273000

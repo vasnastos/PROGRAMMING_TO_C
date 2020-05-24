@@ -1,0 +1,17 @@
+#population info
+#stats
+London-England-8982000
+Athens-Greece-4000000
+Arta-Greece-43166
+Berlin-Germany-3769000
+Tokio-Japan-9273000
+Glaskow-Scotland-598830
+Liverpool-England-552267
+Barcelona-Spain-5575000
+Madrid-Spain-6642000
+Tel Aviv-Israel-435855
+Milan-Italy-1352000
+Warsaw-Poland-1708000
+Rio de Janeiro-6320000
+Utah-USA-3206000
+Boston-USA-1000000
