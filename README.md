@@ -21,7 +21,7 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 <li>2ο ΣΕΤ ΕΠΑΝΑΛΗΠΤΙΚΩΝ ΑΣΚΗΣΕΩΝ</li>
 <li><a href=https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3%5BStructs%5D>STRUCTS EXTRA</a></li>
 </ul>
-<p><b>ΣΕΤ_ΒΟΗΘΗΤΙΚΩΝ_ΑΣΚΗΣΕΩΝ</b></p>
+<p><b><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3_2%CE%BF_%CE%A3%CE%95%CE%A4">ΣΕΤ_ΒΟΗΘΗΤΙΚΩΝ_ΑΣΚΗΣΕΩΝ</a></b></p>
  <ul>
  <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3(2D_Boards-Strings)">Δυσδιάστατοι πίνακες-Αλφαριθμητικά</a></li>
  </ul>
