@@ -29,8 +29,9 @@ int main()
      int i=0;
      students=(student *)malloc(size *sizeof(student));
      fp=fopen("students.txt","r");
-     while(fgets(line,100,fp)!=NULL)
+     while(fgets(line,100,fp)!=NULL)//fscanf(fp,"%d-%s-%lf-%lf",&students[i].id,&students[i].name,&students[i].grades[0],&students[i].grades[1])
      {
+         if(line[strlen(line)-1]=='\n') line[strlen(line)-1]='\0';
          char *token=strtok(line,"-");
          students[i].id=atoi(token);
          token=strtok(NULL,"-");
@@ -42,4 +43,34 @@ int main()
          i++;
      }
      fclose(fp);
+     int cntsuccess=0;
+     int cntfail=0;
+     char filename[100];
+     printf("Give filename:");
+     gets(filename);
+     fp=fopen(filename,"w");
+     for(int i=0;i<size;i++)
+     {
+         if(((students[i].grades[0]+students[i].grades[1])/2)>=5.0)
+         {
+             fprintf(fp,"%d--%s\n",students[i].id,students[i].name);
+             cntsuccess++;
+         }
+     }
+     fclose(fp);
+     //fail αρχειο.
+     printf("Give filename:");
+     gets(filename);
+     fp=fopen(filename,"w");
+     for(int i=0;i<size;i++)
+     {
+         if(((students[i].grades[0]+students[i].grades[1])/2)<5.0)
+         {
+             fprintf(fp,"%d--%s\n",students[i].id,students[i].name);
+             cntfail++;
+         }
+     }
+     fclose(fp); 
+     printf("SUCCESS:%d\n",cntsuccess);
+     printf("Fail:%d\n",cntfail);
 }

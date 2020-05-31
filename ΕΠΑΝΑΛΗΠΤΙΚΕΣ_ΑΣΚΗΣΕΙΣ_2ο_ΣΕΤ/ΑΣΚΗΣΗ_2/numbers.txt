@@ -1,0 +1,16 @@
+#Numbers which used in order to fill a 2D board in exrcise 4
+#Float numbers with 8 byte range use double data type  
+#Example for lesson Programming to c(31/5/20)  
+#University of ioannina(Dit Uoi)  
+#AUTHOR NASTOS VASILEIOS  
+
+#numbers list
+1.32-4.56-2.34-8.97-43.21 
+
+89.65-34.56-43.2-7.8-9.11 
+
+65.43-65.47-12.34-9.67-3.45 
+
+7.89-43.21-7.45-3.11-9.08 
+
+1.11-7.89-56.78-32.14-12.67
