@@ -1,0 +1,13 @@
+#demo number for usage in a c++ program
+#Author Vasileios Nastos
+101
+123
+76
+54
+89
+53
+12
+7
+54
+32
+78
