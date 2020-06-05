@@ -1,0 +1,2 @@
+Letters replaced:14
+NEW STRING:hello;;world;;fr;om;the;;t;ex;t;dem;o;;

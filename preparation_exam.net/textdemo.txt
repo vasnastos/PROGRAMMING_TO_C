@@ -1,0 +1,22 @@
+Because the focus in this book is on object-oriented programming, we can leave out some features of C that are seldom used and are not particularly relevant to OOP. For instance, it isn't
+necessary to understand the C bit-wise operators (used to operate on individual bits) to learn
+object-oriented programming. These and a few other features can be dropped from our discussion, or mentioned only briefly, with no loss in understanding of the major features of C++.
+No answers to the unstarred exercises are provided in this book. However, qualified instructors
+can obtain suggested solutions from the Sams Publishing Web site. Type the ISBN or title and
+click Search to move to this book's page, then click Downloads.
+The exercises vary considerably in their degree of difficulty. In each chapter the early exercises
+are fairly easy, while later ones are more challenging. Instructors will probably want to assign
+only those exercises suited to the level of a particular class.
+
+REPLACE SPACES PER LINE
+Line_1:16
+Line_2:16
+Line_3:14
+Line_4:15
+Line_5:13
+Line_6:13
+Line_7:15
+Line_8:10
+Line_9:14
+Line_10:14
+Line_11:10
