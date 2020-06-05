@@ -27,6 +27,5 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
  <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3(2D_Boards-Strings)">Δυσδιάστατοι πίνακες-Αλφαριθμητικά</a></li>
  <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/preparation_exam.net">EXAM NET PREPARATION</a></li>
  </ul>
-<p style="color:blue;">ΕΠΑΝΑΛΗΨΗ ΘΕΩΡΙΑΣ:</p>
 </body>
 </html>
