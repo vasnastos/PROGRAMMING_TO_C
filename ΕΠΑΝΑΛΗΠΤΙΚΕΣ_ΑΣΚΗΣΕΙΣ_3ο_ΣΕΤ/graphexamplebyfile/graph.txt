@@ -1,0 +1,11 @@
+#informatics and Telecommunications
+#Author Vasileios Nastos
+#use for graph show in c language
+#show vertices
+[0,25,0,15,0,0,0]
+[0,0,15,0,20,0,0]
+[0,0,0,0,0,0,0]
+[0,0,35,0,0,20,0]
+[0,0,0,0,0,15,14]
+[0,0,0,0,0,0,14]
+[0,0,0,0,0,0,0]
