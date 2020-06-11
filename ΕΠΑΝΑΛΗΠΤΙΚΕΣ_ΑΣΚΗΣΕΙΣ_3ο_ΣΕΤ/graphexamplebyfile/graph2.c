@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define V 6
+//#define V 6
+const int V=6;
 
 char vertices[V]={'A','B','C','D','E','F'};
 
@@ -24,26 +25,6 @@ int* totol_vertices()
        }
    }
    return a;
-}
-
-void find_leaf()
-{
-    int counter;
-    for(int j=0;j<V;j++)
-    {
-        counter=0;
-        for(int i=0;i<V;i++)
-        {
-           if(adj_matrix[i][j]==0)
-           {
-               counter++;
-           }
-        }
-        if(counter==V)
-        {
-            printf("Vertex %c is a leaf\n");
-        }
-    }
 }
 
 int main()
