@@ -1,0 +1,14 @@
+#Informatics and telecommunications
+#Author Nastos Vasileios
+#File example which is use to a c Program
+#13/6/2020 6:31
+#Student list
+1234-pappas-10.0-3.5-6.7-8.9-2.3
+3456-nikolaou-10.0-9.8-5.6-10.0-6.7
+5678-eyaggeloy-6.7-8.7-5.4-3.1-6.7
+7123-papadimitriou-10.0-8.7-7.6-3.2
+5290-vasileiou-5.6-7.6
+7321-papaeyaggeloy-8.9-6.5-2.1
+6398-ioannou-9.1-4.5-7.8
+4329-gewrgioy-9.0-8.54
+8734-nastos-8.9-10.0-6.7
