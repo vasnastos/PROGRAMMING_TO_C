@@ -123,3 +123,38 @@ void exportfromdb(proion *products)
     }
     sqlite3_close(db);
 }
+
+void save_to_file()
+{
+    FILE *fp;
+    sqlite3 *db=NULL;
+    sqlite3_stmt *q=NULL;
+    char sql[100];
+    int res=sqlite3_open(databasename,&db);
+    if(res!=SQLITE_OK)
+    {
+        printf("%s\n",sqlite3_errmsg(db));
+        sqlite3_close(db);
+        return;
+    }
+    strcpy(sql,"SELECT * FROM PRODUCT;");
+    res=sqlite3_prepare_v2(db,sql,-1,&q,NULL);
+    if(res!=SQLITE_OK)
+    {
+        printf("%s\n",sqlite3_errmsg(db));
+        sqlite3_close(db);
+        return;
+    }
+    char fn[100];
+    fp=fopen(fn,"w");
+    while(sqlite3_step(q)==SQLITE_OK)
+    {
+        int id=sqlite3_column_int(q,0);
+        char full[200];
+        strcpy(full,(char *)sqlite3_column_text(q,1));
+        double pr=sqlite3_column_double(q,2);
+        fprintf(fp,"ID:%d \t FULLNAME:%s \t PRICE:%.2lf\n",id,full,pr);
+    }
+    fclose(fp);
+    sqlite3_close(db);
+}

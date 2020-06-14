@@ -118,5 +118,6 @@ int main()
             free(records);
         }
     }
+    save_to_file();
     free(prods);
 }
