@@ -1,0 +1,5 @@
+#incformatics and telecommunications
+#Author Nastos Vasileios
+#C language DATABASE NAME
+
+phonebook.db
