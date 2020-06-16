@@ -1,0 +1,4 @@
+Sum of column 1:7
+Sum of column 2:24
+Sum of column 3:59
+Sum of column 4:18
