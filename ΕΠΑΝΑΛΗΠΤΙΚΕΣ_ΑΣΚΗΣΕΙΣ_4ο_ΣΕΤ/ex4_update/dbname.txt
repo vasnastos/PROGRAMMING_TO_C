@@ -1,0 +1,5 @@
+#Informatics and telecommunications department of Ioannina
+#Author Nastos Vasileios
+#17/06/2020
+
+populationinfo.db 

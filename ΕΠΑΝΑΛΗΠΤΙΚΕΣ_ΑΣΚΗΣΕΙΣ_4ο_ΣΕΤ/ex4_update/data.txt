@@ -1,0 +1,23 @@
+#Informatics and telecommunications department of Ioannina
+#Author Nastos Vasileios
+#17/06/2020
+#demo about population info for several cities in order to use in a c program
+
+#LIST OF CITIES
+Athens-3000000
+Thessaloniki-2500000
+Ioannina-250000
+Irakleio-127000
+Thiva-100000
+Volos-60000
+Larisa-40000
+Patra-25000
+Arta-25000
+Igoumenitsa-9551
+Kozani-27000
+Agrinio-40000
+Trikala-19000
+Samos-12000
+Mykonos-9000
+Alexandroupoli-100000
+
