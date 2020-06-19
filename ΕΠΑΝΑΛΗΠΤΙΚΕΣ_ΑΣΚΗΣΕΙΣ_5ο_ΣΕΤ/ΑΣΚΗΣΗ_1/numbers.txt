@@ -1,0 +1,24 @@
+#Informatics and Telecommunications
+#Author Nastos Vasileios
+#19/06/2020
+#Numbers for reading by a program in c
+
+#List of numbers
+NUMBER_1:23
+NUMBER_2:11
+NUMBER_3:1
+NUMBER_4:2
+NUMBER_5:8
+NUMBER_6:9
+NUMBER_7:13
+NUMBER_8:10
+NUMBER_9:28
+NUMBER_10:94
+NUMBER_11:37
+NUMBER_12:33
+NUMBER_13:15
+NUMBER_14:6
+NUMBER_15:90
+NUMBER_16:55
+NUMBER_17:67
+NUMBER_18:78
