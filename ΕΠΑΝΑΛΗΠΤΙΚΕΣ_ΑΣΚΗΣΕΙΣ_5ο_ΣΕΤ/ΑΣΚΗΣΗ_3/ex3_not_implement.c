@@ -45,7 +45,7 @@ void deposit(char *accn)
     //implentation
 }
 
-void withdraw(int pos)
+void withdraw(char *accn)
 {
     //implementation
 }
