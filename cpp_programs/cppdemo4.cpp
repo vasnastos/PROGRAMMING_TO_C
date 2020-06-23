@@ -20,11 +20,8 @@ int getsize(std::string filename)
     is.open(filename,std::ios::in);
     while(std::getline(is,line))
     {
+        if(line.size()==0) continue;
         if(line.at(0)=='#')
-        {
-            continue;
-        }
-        if(line.at(0)=='\n')
         {
             continue;
         }
@@ -40,15 +37,13 @@ void readdata(student *students,std::string filename)
     std::vector <std::string> data;
     std::string line;
     std::ifstream is;
+    int i=0;
     is.open(filename,std::ios::in);
     while(std::getline(is,line))
     {
         data.clear();
+        if(line.size()==0) continue;
         if(line.at(0)=='#')
-        {
-            continue;
-        }
-        if(line.at(0)=='\n')
         {
             continue;
         }
@@ -61,12 +56,12 @@ void readdata(student *students,std::string filename)
         {
             continue;
         }
-        student st;
-        st.id=stoi(data.at(0));
-        st.name=data.at(1);
-        st.lessonname=data.at(2);
-        st.grades[0]=stoi(data.at(3));
-        st.grades[1]=stoi(data.at(4));
+        students[i].id=stoi(data[0]);
+        students[i].name=data[1];
+        students[i].lessonname=name[2];
+        students[i].grades[0]=stof(data[3]);
+        students[i].grades[1]=stof(data[4]);
+        i++;
     }
     is.close();
 }
