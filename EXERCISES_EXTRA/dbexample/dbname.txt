@@ -1,6 +1,0 @@
-#Informatics and telecommunications
-#Author Nastos Vasileios
-#23/06/2020
-#Txt file that stores a database name for academic
-
-cities.txt

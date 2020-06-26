@@ -1,0 +1,31 @@
+##########################
+
+This code was designed by Nastos Vasileios on June 22st
+It is intended for academic use at the Department of Informatics and Telecommunication of University of Ioannina.
+############################
+
+Give filename:temperature.txt
+FILE LOADING....................
+
+File loading complete!!!!!!!
+DATA LOADING....................
+
+Data loading complete!!!!!!!
+AVERAGE PER CITY
+###################################
+AVERAGE OF CITY:ATHENS is:5.70
+TEMPARATURE OVER 0
+
+AVERAGE OF CITY:IGOUMENITSA is:3.50
+TEMPARATURE OVER 0
+
+AVERAGE OF CITY:ARTA is:-2.50
+TEMPARATURE BELOW 0
+
+###################################
+
+SUMMARY OVERALL
+###################################
+66.67 percent of cities have average temparature over 0
+33.33 percent of cities have average temparature below 0
+###################################

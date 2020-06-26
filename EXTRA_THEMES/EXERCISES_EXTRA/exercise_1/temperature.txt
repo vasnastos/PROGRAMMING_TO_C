@@ -1,0 +1,8 @@
+#Informatics an Communications
+#Author Nastos Vasileios
+#This Program is using for academic use in a C program
+
+#CITIES LIST
+ATHENS,1.0,-5.0,21.5,5.3
+IGOUMENITSA,-6.5,5.6,11.4
+ARTA,0.6,-4.7,0.6,1.0,-10.0
