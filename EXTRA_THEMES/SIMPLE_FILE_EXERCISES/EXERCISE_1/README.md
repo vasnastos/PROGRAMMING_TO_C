@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>ΑΣΚΗΣΗ_1</title>
-</head>
 <body>
 <h2 style="text-align:center; font-family:calibri;">ΑΡΧΕΙΑ ΑΣΚΗΣΗ 1</h2>
 <h3 style="text-align:center; font-family:calibri;">ΣΥΝΤΑΚΤΗΣ ΝΑΣΤΟΣ ΒΑΣΙΛΕΙΟΣ</h3>
