@@ -14,8 +14,8 @@
 <ol>
 <li><p style="text-align:center; font-family:calibri;">argc-->counter,πραγματοποιεί καταμέτρηση των ορισμάτων που θα δώσουμε από την γραμμή εντολών.</p></li>
 <li><p style="text-align:center; font-family:calibri;">argv-->Πίνακας χαρακτήρων που αποθηκεύει τα ορίσματα που δέχεται από την γραμμή εντολών.</p></li>
+<li><p style="text-align:center; font-family:calibri;">Π.Χ:Run_PROGRAM-->a.exe 3.14 abb <br> argc=3 <br> argv[0]="a.exe"-argv[1]="3.14"-argv[2]="abb"</p></li>
 </ol>
-<br>
-<p style="text-align:center; font-family:calibri;">Π.Χ:Run_PROGRAM-->a.exe 3.14 abb <br> argc=3 <br> argv[0]="a.exe"-argv[1]="3.14"-argv[2]="abb"</p> 
+</ul> 
 </body>
 </html>
