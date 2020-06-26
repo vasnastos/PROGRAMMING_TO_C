@@ -58,7 +58,7 @@ void readdata(student *students,std::string filename)
         }
         students[i].id=stoi(data[0]);
         students[i].name=data[1];
-        students[i].lessonname=name[2];
+        students[i].lessonname=data[2];
         students[i].grades[0]=stof(data[3]);
         students[i].grades[1]=stof(data[4]);
         i++;
