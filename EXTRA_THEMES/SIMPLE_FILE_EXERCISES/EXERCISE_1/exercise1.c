@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <math.h>
+#include <string.h>
 #include <stdlib.h>
 
 char filename[100];
 
-void read_data(int argument)
+void read_data(double argument)
 {
     int cntmax=0;
     int i=0;
@@ -55,7 +56,7 @@ void read_data(int argument)
            printf("Max found in position:%d\n",j+1);
         }
     }
-    printf("Numbers over %d argument are:%d",cnt_arg);
+    printf("Numbers over %.2lf argument are:%d\n",argument,cnt_arg);
     printf("SQRT of sum in file is:%.2lf\n",sqrt(sum));
     printf("########################\n");
     free(board);
@@ -66,7 +67,7 @@ int main(int argc,char *argv[])
     if(argc!=3)
     {
         perror("Please run again the program with the correct number of arguments!!!!\n");
-        return;
+        exit(EXIT_FAILURE);
     }
     double argument=atof(argv[1]);
     strcpy(filename,argv[2]);
