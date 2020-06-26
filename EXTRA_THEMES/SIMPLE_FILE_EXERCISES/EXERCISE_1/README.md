@@ -13,6 +13,8 @@
 <li><p style="text-align:center; font-family:calibri;">argv-->Πίνακας χαρακτήρων που αποθηκεύει τα ορίσματα που δέχεται από την γραμμή εντολών.</p></li>
 <li><p style="text-align:center; font-family:calibri;">Π.Χ:Run_PROGRAM-->a.exe 3.14 abb <br> argc=3 <br> argv[0]="a.exe"-argv[1]="3.14"-argv[2]="abb"</p></li>
 </ol>
+<li>ΜΕΤΑΓΛΩΤΤΙΣΗ::gcc exercise1.c -o ex1</li>
+<li>EKΤΕΛΕΣΗ::ex1 6.89 numbers.txt</li>
 </ul> 
 </body>
 </html>
