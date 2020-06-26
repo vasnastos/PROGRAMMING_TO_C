@@ -25,10 +25,9 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 </ul>
 <p><b>ΣΕΤ_ΒΟΗΘΗΤΙΚΩΝ_ΑΣΚΗΣΕΩΝ</b></p>
  <ul>
- <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3(2D_Boards-Strings)">Δυσδιάστατοι πίνακες-Αλφαριθμητικά</a></li>
- <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/preparation_exam.net">EXAM NET PREPARATION</a></li>
- <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3%5BStructs%5D">STRUCTS EXTRA</a></li>
-  <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXERCISES_EXTRA/exercise_1">EXTRA</a></li>
+ <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXTRA_THEMES/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3(2D_Boards-Strings)">Δυσδιάστατοι πίνακες-Αλφαριθμητικά</a></li>
+ <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXTRA_THEMES/preparation_exam.net">PREVIEW_FOR_FINAL_EXAMS</a></li>
+ <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXTRA_THEMES/EXERCISES_EXTRA">STRUCTS EXTRA</a></li>
  </ul>
 </body>
 </html>
