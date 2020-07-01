@@ -1,0 +1,8 @@
+#Informatics and Telecommunications
+#Author Nastos Vasileios
+#26/06/2020
+
+tv-20-250.0
+phone-35-200.0
+handsfree-67-21.0
+usb-35-8.97
