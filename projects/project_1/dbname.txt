@@ -1,0 +1,4 @@
+#Informatics and Telecommunications
+#Author Nastos Vasileios
+#Code for academic use in order to handle a csv file
+population.db
