@@ -8,7 +8,7 @@
 <h3 style="text-align:center;">14/07/2020</h3>
 <br>
 <h4 style="text-align:center;">Θέματα προετιμασίας</h4>
-</div>
+</div style="border:2px inset;">
 <div class="readdiv">
 <h3 style="text-align:center;"><b>ΘΕΜΑ_1</b></h3>
 <ol>
@@ -25,7 +25,7 @@
 <p style="text-align:center;"><b><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/blob/master/EXTRA_THEMES/preparation_exam.net/thema1.c" "target=_blank">Λύση</a></b></p>
 </div>
 <br>
-<div class="readdiv">
+<div style="border:2px inset;">
 <h3 "style=text-align:center"><b>ΘΕΜΑ_2</b></h3>
 <ol>
 <li>:Να γραφεί συνάρτηση int replaceLetters(char *str,char letter),η
