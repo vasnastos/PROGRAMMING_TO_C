@@ -1,12 +1,5 @@
 <html>
 <head>
-<style>
-.readdiv {
-  border: 5px inset;
-  background-color: lightblue;
-  text-align: center;
-}
-</style>
 </head>
 <body>
 <div class="readdiv">
