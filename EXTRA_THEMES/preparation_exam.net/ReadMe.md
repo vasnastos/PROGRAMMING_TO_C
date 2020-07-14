@@ -2,14 +2,12 @@
 <head>
 </head>
 <body>
-<div class="readdiv">
+<div style="border:2px inset;">
 <h2 style="text-align:center;">Author Nastos Vasileios</h2>
-<br>
 <h3 style="text-align:center;">14/07/2020</h3>
-<br>
 <h4 style="text-align:center;">Θέματα προετιμασίας</h4>
-</div style="border:2px inset;">
-<div class="readdiv">
+ </div>
+<div style="border:2px inset;">
 <h3 style="text-align:center;"><b>ΘΕΜΑ_1</b></h3>
 <ol>
 <li>:Να γραφεί συνάρτηση int replaceSpace(char *str), η οποία θα
