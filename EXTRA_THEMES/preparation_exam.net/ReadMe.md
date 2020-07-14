@@ -22,7 +22,7 @@
 συνάρτησης.
 </li>
 </ol>
-<p style="text-align:center;"><b><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/blob/master/EXTRA_THEMES/preparation_exam.net/thema1.c" "target=_blank">Λύση</a></b></p>
+<p style="text-align:center;"><b><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/blob/master/EXTRA_THEMES/preparation_exam.net/thema1.c" target="_blank">Λύση</a></b></p>
 </div>
 <br>
 <div style="border:2px inset;">
@@ -37,7 +37,7 @@ letter και θα αντικαθιστά κάθε αριθμητικό με α�
 καινούργιο αλφαριθμητικό σε ένα αρχείο,το όνομα του οποίου θα δίνεται
 σαν είσοδος από τον χρήστη. </li>
 </ol>
-<p style="text-align:center;"><b><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/blob/master/EXTRA_THEMES/preparation_exam.net/thema2.c" "target=_blank">Λύση</a></b></p>
+<p style="text-align:center;"><b><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/blob/master/EXTRA_THEMES/preparation_exam.net/thema2.c" target="_blank">Λύση</a></b></p>
 </div>
 </body>
 </html>
