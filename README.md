@@ -8,12 +8,12 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 
 <h4><p style="color:red;">ΠΕΡΙΕΧΟΜΕΝΑ</p></h4>
 <ul>
-<li><b>ΣΥΝΑΡΤΗΣΕΙΣ-ΠΙΝΑΚΕΣ-ΑΛΦΑΡΙΘΜΗΤΙΚΑ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course1">Functions-1D Boards-STRING</a></b></li>
-<li><b>ΔΥΣΔΙΑΣΤΑΤΟΙ ΠΙΝΑΚΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course2">2D-BOARDS</a></b></li>
-<li><b>ΔΕΙΚΤΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course3">Pointers</a></b></li>
-<li><b>ΑΡΧΕΙΑ:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/Course4">Files</a></b></li>
-<li><b>STRUCTS:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/STRUCTS">Structs</a></b></li>
-<li><b>ΕΙΣΑΓΩΓΗ ΣΤΗΝ C++:<a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/cpp_programs">C++</a></b></li>
+<li><b>ΣΥΝΑΡΤΗΣΕΙΣ-ΠΙΝΑΚΕΣ-ΑΛΦΑΡΙΘΜΗΤΙΚΑ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%201">Functions-1D Boards-STRING</a></b></li>
+<li><b>ΔΥΣΔΙΑΣΤΑΤΟΙ ΠΙΝΑΚΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%202">2D-BOARDS</a></b></li>
+<li><b>ΔΕΙΚΤΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%203">Pointers</a></b></li>
+<li><b>ΑΡΧΕΙΑ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%204">Files</a></b></li>
+<li><b>ΔΟΜΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%205">Structs</a></b></li>
+<li><b>ΕΙΣΑΓΩΓΗ ΣΤΗΝ C++:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%A0%CE%A1%CE%9F%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%91%CE%A4%CE%91%20%CE%A3%CE%95%20C%2B%2B">C++</a></b></li>
 </ul>
 <p style="color:red;"><b><i>ΕΠΑΝΑΛΗΠΤΙΚΕΣ ΑΣΚΗΣΕΙΣ:</i></b></p>
 <ul>
@@ -26,8 +26,8 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 <p><b>ΣΕΤ_ΒΟΗΘΗΤΙΚΩΝ_ΑΣΚΗΣΕΩΝ</b></p>
  <ul>
  <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXTRA_THEMES/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A0%CE%A4%CE%99%CE%9A%CE%95%CE%A3_%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3(2D_Boards-Strings)">Δυσδιάστατοι πίνακες-Αλφαριθμητικά</a></li>
- <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXTRA_THEMES/preparation_exam.net">PREVIEW_FOR_FINAL_EXAMS</a></li>
- <li><a href="https://github.com/vasnastos/PROGRAMMING-TO-C-2/tree/master/EXTRA_THEMES/EXERCISES_EXTRA">STRUCTS EXTRA</a></li>
+ <li><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%95%CE%9E%CE%A4%CE%A1%CE%91%20%CE%98%CE%95%CE%9C%CE%91%CE%A4%CE%91/preparation_exam.net">ΠΡΟΕΤΙΜΑΣΙΑ ΕΞΕΤΑΣΗΣ</a></li>
+ <li><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%94%CE%9F%CE%9C%CE%95%CE%A3">STRUCTS EXTRA</a></li>
  </ul>
 </body>
 </html>
