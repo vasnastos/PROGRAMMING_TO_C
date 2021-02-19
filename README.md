@@ -13,6 +13,8 @@ Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη
 <li><b>ΔΕΙΚΤΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%203">Pointers</a></b></li>
 <li><b>ΑΡΧΕΙΑ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%204">Files</a></b></li>
 <li><b>ΔΟΜΕΣ:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%9C%CE%91%CE%98%CE%97%CE%9C%CE%91%205">Structs</a></b></li>
+<li><b>ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ</b>:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%92%CE%91%CE%A3%CE%95%CE%99%CE%A3%20%CE%94%CE%95%CE%94%CE%9F%CE%9C%CE%95%CE%9D%CE%A9%CE%9D">Sqlite</a></li>
+<li><b>ΓΡΑΦΙΚΑ:</b><a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%92%CE%91%CE%A3%CE%95%CE%99%CE%A3%20%CE%94%CE%95%CE%94%CE%9F%CE%9C%CE%95%CE%9D%CE%A9%CE%9D">GRAPHICS</a></li>
 <li><b>ΕΙΣΑΓΩΓΗ ΣΤΗΝ C++:<a href="https://github.com/vasnastos/PROGRAMMING_TO_C/tree/master/%CE%A0%CE%A1%CE%9F%CE%93%CE%A1%CE%91%CE%9C%CE%9C%CE%91%CE%A4%CE%91%20%CE%A3%CE%95%20C%2B%2B">C++</a></b></li>
 </ul>
 <p style="color:red;"><b><i>ΕΠΑΝΑΛΗΠΤΙΚΕΣ ΑΣΚΗΣΕΙΣ:</i></b></p>
